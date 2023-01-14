@@ -6,7 +6,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/kadir-can-tüfekci-78b038230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadir-can-tüfekci-78b038230" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/can-t%C3%BCfekci-78b038230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadir-can-tüfekci-78b038230" height="30" width="40" /></a>
 <a href="https://instagram.com/kctuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kctuf" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@thejanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jantican" height="30" width="40" /></a>
 </p>
