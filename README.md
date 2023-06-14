@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Can aka Jantican</h1>
+<h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">Selam </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jantican&label=Profile%20views&color=0e75b6&style=flat" alt="jantican" /> </p>
@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/can-t%C3%BCfekci-78b038230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadir-can-tüfekci-78b038230" height="30" width="40" /></a>
 <a href="https://instagram.com/kctuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kctuf" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@thejanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jantican" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@canjanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jantican" height="30" width="40" /></a>
 </p>
 <br>
 
